@@ -37,7 +37,7 @@ if greeting1 == greeting2:
 else:
     print("They are different")
 
-
+ 
 #Type conversion
 age_str = "30"
 age_num = int(age_str)
@@ -46,4 +46,3 @@ print(type(age_str))
 
 price_float = 29.99
 price_int = int(price_float)
- 

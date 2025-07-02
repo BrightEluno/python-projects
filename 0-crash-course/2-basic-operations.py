@@ -15,6 +15,7 @@ x += 15
 print(x)
 
 
+
 # string concatenation
 first_name = "Bright"
 last_name = "Eluno"
